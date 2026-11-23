@@ -219,6 +219,50 @@ extensions:
           github-sha: cc03cf4d47d06657402365987a7699c2cbd27e25
           github-tag: main
     - definition:
+        name: ChristmasCalendar
+        version: 2.0.0
+        type: plugin
+      contents:
+        source:
+          method: github
+          url: Krarilotus/ChristmasCalendar
+          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-tag: ucp3
+          location: plugin
+    - definition:
+        name: ChristmasCalendar-Story
+        version: 1.0.0
+        type: plugin
+      contents:
+        source:
+          method: github
+          url: Krarilotus/ChristmasCalendar
+          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-tag: ucp3
+          location: presets/ChristmasCalendar-Story
+    - definition:
+        name: ChristmasCalendar-Normal
+        version: 1.0.0
+        type: plugin
+      contents:
+        source:
+          method: github
+          url: Krarilotus/ChristmasCalendar
+          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-tag: ucp3
+          location: presets/ChristmasCalendar-Normal
+    - definition:
+        name: ChristmasCalendar-Hard
+        version: 1.0.0
+        type: plugin
+      contents:
+        source:
+          method: github
+          url: Krarilotus/ChristmasCalendar
+          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-tag: ucp3
+          location: presets/ChristmasCalendar-Hard
+    - definition:
         name: ConqueringEurope
         version: 1.0.0
         type: plugin
@@ -510,6 +554,16 @@ extensions:
           github-sha: 8e48fe8b53dbb85a7672e4d36744163fc266a5a3
           github-tag: main
     - definition:
+        name: files
+        version: 1.5.0
+        type: module
+      contents:
+        source:
+          method: github
+          url: Krarilotus/extension-files
+          github-sha: 91285b095b5f8faaa586def121f21094bedbeaf9
+          github-tag: feat/dated-map-availability
+    - definition:
         name: gmResourceModifier
         version: 0.2.0
         type: module
@@ -658,6 +712,16 @@ extensions:
           url: gynt/ucp-extension-custom-skirmish-trails
           github-sha: 7afdbd93db2d1c432cfb04ee2cac568f6254c462
           github-tag: main
+    - definition:
+        name: custom-skirmish-trails
+        version: 1.5.0
+        type: module
+      contents:
+        source:
+          method: github
+          url: Krarilotus/ucp-extension-custom-skirmish-trails
+          github-sha: 5f37a4f14a4efc2b6fc94a3a53a0ba6455d91094
+          github-tag: upstream/monsterfish-trails-1.4
     - definition:
         name: workers
         version: 0.0.1
