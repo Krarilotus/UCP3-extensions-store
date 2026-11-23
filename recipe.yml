@@ -561,7 +561,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/extension-files
-          github-sha: 91285b095b5f8faaa586def121f21094bedbeaf9
+          github-sha: 9e91a0b5937853981f208700addba3bd3a87f8e0
           github-tag: feat/dated-map-availability
     - definition:
         name: gmResourceModifier
@@ -720,7 +720,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ucp-extension-custom-skirmish-trails
-          github-sha: 4772a22da97302c539a957aaa1ff9c1e26ef9740
+          github-sha: 9a56e7d11ab186738ed67770d283477f1c0a268e
           github-tag: upstream/monsterfish-trails-1.4
     - definition:
         name: workers
