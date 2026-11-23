@@ -226,7 +226,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ChristmasCalendar
-          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-sha: aefe9625ce73307fa4e8f809948400e442fcd234
           github-tag: ucp3
           location: plugin
     - definition:
@@ -237,7 +237,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ChristmasCalendar
-          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-sha: aefe9625ce73307fa4e8f809948400e442fcd234
           github-tag: ucp3
           location: presets/ChristmasCalendar-Story
     - definition:
@@ -248,7 +248,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ChristmasCalendar
-          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-sha: aefe9625ce73307fa4e8f809948400e442fcd234
           github-tag: ucp3
           location: presets/ChristmasCalendar-Normal
     - definition:
@@ -259,7 +259,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ChristmasCalendar
-          github-sha: 95230bfdd715a8f1fb7d8fa4563d2cbf80726041
+          github-sha: aefe9625ce73307fa4e8f809948400e442fcd234
           github-tag: ucp3
           location: presets/ChristmasCalendar-Hard
     - definition:
@@ -720,7 +720,7 @@ extensions:
         source:
           method: github
           url: Krarilotus/ucp-extension-custom-skirmish-trails
-          github-sha: 5f37a4f14a4efc2b6fc94a3a53a0ba6455d91094
+          github-sha: 4772a22da97302c539a957aaa1ff9c1e26ef9740
           github-tag: upstream/monsterfish-trails-1.4
     - definition:
         name: workers
